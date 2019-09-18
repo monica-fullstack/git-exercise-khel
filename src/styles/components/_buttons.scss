@@ -3,7 +3,11 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the button component.
 // -----------------------------------------------------------------------------
+
 .btn-primary {
-  color: black;
-  text-transform: uppercase;
+  color: blue;
+  text-transform: capitalize;
+
+  background-color: red;
+  border: 1px solid red;
 }
