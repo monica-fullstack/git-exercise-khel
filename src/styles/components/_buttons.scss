@@ -5,9 +5,13 @@
 // -----------------------------------------------------------------------------
 
 .btn-primary {
-  color: blue;
+  color: black;
   text-transform: capitalize;
 
   background-color: red;
   border: 1px solid red;
+}
+
+.btn {
+  transition: all .3s ease-in-out;
 }
